@@ -18,11 +18,9 @@ dependencies = {
 }
 build = {
     type = 'builtin';
-    install = {
-        lua = {
+     modules = {
             ["jsonrpc.server"] = "jsonrlc/server.lua",
             ["jsonrpc.client"] = "jsonrlc/client.lua",
             ["jsonrpc.init"] = "jsonrlc/init.lua"
-        }
     }
 }
