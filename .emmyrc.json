@@ -1,0 +1,15 @@
+{
+  "runtime": {
+    "version": "LuaJIT"
+  },
+  "workspace": {
+    "ignoreDir": [
+      ".rocks",
+      "test"
+    ],
+    "library": [
+      "/home/r3l0c/.vscode-server/extensions/tarantool.tarantool-0.2.0/dist/Library",
+      "/home/r3l0c/.vscode-server/extensions/tarantool.tarantool-0.2.0/dist/Rocks"
+    ]
+  }
+}

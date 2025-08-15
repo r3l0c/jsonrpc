@@ -1,0 +1,1 @@
+docker run -v "$(pwd):/data" ghcr.io/lunarmodules/ldoc:master .
