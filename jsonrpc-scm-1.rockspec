@@ -21,7 +21,7 @@ build = {
     install = {
         lua = {
             ["jsonrpc.server"] = "jsonrlc/server.lua",
-            ["jsonrpc.client"] = "jsonrlc/client.lua"
+            ["jsonrpc.client"] = "jsonrlc/client.lua",
             ["jsonrpc.init"] = "jsonrlc/init.lua"
         }
     }
