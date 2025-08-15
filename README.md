@@ -15,10 +15,6 @@ A lightweight, transport-agnostic JSON-RPC 2.0 implementation for Tarantool that
 - **Simple API** - Easy integration into existing projects
 - **Error Handling** - Comprehensive error codes and messages
 
-## Documentation
-
-[LDoc HTML](https://htmlpreview.github.io/?https://github.com/r3l0c/jsonrpc/blob/master/docs/index.html)
-
 
 ## Installation
 
