@@ -19,7 +19,7 @@ A lightweight, transport-agnostic JSON-RPC 2.0 implementation for Tarantool that
 ## Installation
 
 ```bash
-tt rocks install https://raw.githubusercontent.com/r3l0c/jsonrpc/refs/heads/master/websocket-scm-1.rockspec
+tt rocks install https://raw.githubusercontent.com/r3l0c/jsonrpc/refs/heads/master/jsonrpc-scm-1.rockspec
 ```
 
 ## Server Usage
