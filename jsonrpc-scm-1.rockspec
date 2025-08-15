@@ -17,7 +17,7 @@ dependencies = {
     "tarantool >= 2.0"
 }
 build = {
-    type = 'builtin';
+    type = 'builtin',
      modules = {
             ["jsonrpc.server"] = "jsonrlc/server.lua",
             ["jsonrpc.client"] = "jsonrlc/client.lua",
